@@ -2,7 +2,7 @@
 name = "debugging-q4"
 version = "0.1.0"
 description = "CCHC Assessment Debugging Q4"
-authors = [{ name = "", email = "" }]
+authors = [{ name = "bahri berk gulay", email = "berkgly_ds@outlook.com" }]
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
